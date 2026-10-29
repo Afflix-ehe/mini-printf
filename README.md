@@ -31,7 +31,7 @@ make
 
 ## Requirements
 
-- x86-64 Linux - Tested on Kali Linux
+- x86-64 Linux
 - `gcc` (for the assembler/linker via `as` and `ld`, or use `gcc` directly)
 - `make`
 
